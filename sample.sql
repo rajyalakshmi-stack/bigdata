@@ -1,7 +1,7 @@
-select * from cardbase;
-select * from cardbase where cust_id='CC11';
-update cardbase
+select * from customer_base;
+select * from customer_base where cust_id='CC11';
+update customer_base
 set customer_segment='Gold'
 where cust_id='CC11';
 
-insert into cardbsae values('CC22','CC33')
+insert into customer_base values('CC22','CC33')
