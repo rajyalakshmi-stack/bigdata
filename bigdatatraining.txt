@@ -1,0 +1,8 @@
+Unix Commands
+Hadoop introduction --HDFS architecture, HDFS commands
+SQL
+Hive
+Sqoop
+GitHub
+Jenkins
+
